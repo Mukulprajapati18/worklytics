@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748084364532",
+    "project_id": "worklytics-c8099",
+    "storage_bucket": "worklytics-c8099.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748084364532:android:a25605cb6bec8ce43b8aa1",
+        "android_client_info": {
+          "package_name": "com.example.worklytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6UIid_eyGIzgzrAABtR9IefWz1R6eLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
